@@ -1,0 +1,76 @@
+/* add your CSS here */
+
+.animalCard{
+border: 1px solid #c0c0c0;
+max-width: 300px;
+padding: 13px;
+background-color:rgb(255, 165, 0);
+box-shadow: 10px 8px 2px #e5e5e5 ;
+
+/* margin-right: auto; */
+/* padding-bottom: 10px; */
+}
+
+.text-boxes {
+  border-style: solid;
+  border-color: rgb(#01DF01);
+  background-color: rgb(253, 245, 230);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
+.text-box {
+  border-style: solid;
+  border-color: rgb(#01DF01);
+  background-color: rgb(255, 165, 0);
+  border-radius: 0px;
+  margin: 0px;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 10px 8px 2px #e5e5e5 ;
+}
+
+#interesting-fact {
+  font-style: italic;
+}
+
+.list-categories{
+  font-weight: bold;
+  font-family: serif, Georgia;
+}
+
+#description {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.AnimalInfo{
+  border: 1px solid #c0c0c0;
+  /* width: 300px; */
+  text-align: left;
+
+  padding-left: 12px;
+  padding-right: -12px;
+
+  margin-top: 9px;
+  margin-right: 1px;
+
+
+}
+
+p{
+font-family: serif, Georgia;
+
+  }
+
+.extra{
+  font-size: 12px;
+  padding-top: 5px;
+  padding-left: 9px;
+  padding-right: 18px;
+}
